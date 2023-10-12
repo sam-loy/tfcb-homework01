@@ -20,5 +20,8 @@ You can find more information on the creator of this repository on [github](http
 |Data           | A document comprising columns, rows and cells that contain specific values. What you're reading right now.         |
 
 ## Images of Ants
-- [*Acanthomyrmex *ferox](C:\Users\samlo\Documents\College 2\TFCB\tfcb-homework01\messy-project-directory\images\acanthomyrmex_ferox_0901788_p1_High.jpg)
-- 
+- [_Acanthomyrmex_ _ferox_](https://github.com/sam-loy/tfcb-homework01/blob/main/messy-project-directory/images/acanthomyrmex_ferox_0901788_p1_High.jpg)
+- [_Camponotus_ _darwinii_](https://github.com/sam-loy/tfcb-homework01/blob/main/messy-project-directory/images/camponotus_darwinii_019696.jpg)
+- [_Cataglyphis_ _fortis_](https://github.com/sam-loy/tfcb-homework01/blob/main/messy-project-directory/images/cataglyphis_fortis_0906296_p1_high.jpg)
+- [_Rhytidoponera_ _metallica_](https://github.com/sam-loy/tfcb-homework01/blob/main/messy-project-directory/images/rhytidoponera_metallica_0172345.jpg)
+
